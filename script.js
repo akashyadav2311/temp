@@ -1,4 +1,4 @@
-import quizData from "../data";
+import {quizData} from "./data.js";
 
 export function start() {
     console.log("hello World");
